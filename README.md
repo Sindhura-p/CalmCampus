@@ -67,7 +67,7 @@ The instruction regarding installation along with the environment variables have
 	https://calm-campus.vercel.app/
 
 ## Contributors
-	Saarthak, Pavan, Shivangi, Sindhu, Gouri
+	 Sindhura, Saarthak, Pavan, Shivangi, Gouri
 
 ## License
 
